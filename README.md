@@ -11,9 +11,15 @@ Note:- The intrinsic value is calculated by using the formula-
                           
                           
 Where,
+
 V: [Intrinsic Value]
+
 EPS: [The Company’s last 12-month earnings per share]
+
 8.5: [The constant represents the appropriate P-E ratio for a no-growth company as   proposed by Graham.]
+
 g : [The company's long-term (five years) earnings growth estimate]
+
 6 : [The average Return of FDs (6%)]
+
 Y : [The current yield on AAA corporate bonds.]
